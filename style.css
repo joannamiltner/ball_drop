@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(50,50,50);
+}
+
+.container{
+    border: 3px solid white;
+}
+
+.ball{
+    background-color: blue;
+    height: 3em;
+    width: 3em;
+}
